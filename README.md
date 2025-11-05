@@ -6,7 +6,7 @@
 
 **View the complete challenge:**
 
-👉 **[https://flyaflya.github.io/confounderChallenge/](https://flyaflya.github.io/confounderChallenge/)**
+👉 **[https://flyaflya.github.io/confounderChallenge/](https://aszrom.github.io/confounderChallenge/)**
 
 The GitHub Pages website contains the full interactive challenge with detailed instructions, data files, and submission requirements.
 
